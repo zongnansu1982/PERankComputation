@@ -51,7 +51,8 @@ public class PERankFingerPrintIni {
 		
 		for (int i = 0; i < list.size(); i++) {
 			PERankFingerPrintIni Ini= new PERankFingerPrintIni(list.get(i));
-			Ini.generateFPIni("D:/data/perank/query/2017SearchedEntities.txt", "D:/data/perank/query/2017ppvIni_"+list.get(i)+".txt");	
+			Ini.generateFPIni("D:/data/perank/query/allEntities.txt", "D:/data/perank/query/2017ppvIni_"+list.get(i)+".txt");	
+//			Ini.generateFPIni("D:/data/perank/query/2017SearchedEntities.txt", "D:/data/perank/query/2017ppvIni_"+list.get(i)+".txt");	
 		}
 	}
 
