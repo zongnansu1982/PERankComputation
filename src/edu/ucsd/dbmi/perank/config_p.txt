@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+	<graphIndex>"D:/data/perank/starIndex/dataGraph"</graphIndex>
+	<schemaIndex>"D:/data/perank/starIndex/clsAndLink"</schemaIndex>
+	<length>"10"</length>
+	<typeInput>"D:/data/perank/query/2017linkAll.txt"</typeInput>
+	<type>"predicate"</type>
+	<timeInput>"D:/data/perank/query/time_p.txt"</timeInput>
+	<ppvIniFile>"D:/data/perank/query/2017ppvIniTest.txt"</ppvIniFile>
+	<ppvDir>"D:/data/perank/query"</ppvDir>
+	<preferneceIndexFile>"D:/data/perank/query/p_preference.idx"</preferneceIndexFile>
+</config>
