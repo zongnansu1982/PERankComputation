@@ -1,0 +1,12 @@
+query,querytype,preference,result,relevant,fitpreference
+Polydactyly,diseases,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/1813,true,true
+Polydactyly,diseases,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/1422,true,true
+Polydactyly,diseases,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/3275,true,true
+Polydactyly,diseases,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/2757,true,true
+Polydactyly,diseases,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/1486,true,true
+Polydactyly,diseases,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/2829,true,true
+Polydactyly,diseases,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/2996,true,true
+Polydactyly,diseases,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/3076,true,true
+Polydactyly,diseases,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/3580,true,true
+Polydactyly,diseases,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/390,true,true
+Polydactyly,diseases,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/3962,true,true

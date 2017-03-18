@@ -1,0 +1,11 @@
+query,querytype,preference,result,relevant,fitpreference
+Ethinamate,drug,disease,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB01031,true,false
+Phenylpropanolamine,drug,disease,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00956,true,false
+Phenylpropanolamine,drug,disease,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00514,true,false
+Aliskiren,drug,disease,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB01258,true,false
+Trovafloxacin,drug,disease,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00685,true,false
+Polydactyly,diseases,drug,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/2829,true,true
+Polydactyly,diseases,drug,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/1486,true,true
+Polydactyly,diseases,drug,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/2996,true,true
+Polydactyly,diseases,drug,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/3076,true,true
+Polydactyly,diseases,drug,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/2757,true,true

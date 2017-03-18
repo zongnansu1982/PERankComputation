@@ -1,0 +1,400 @@
+query,querytype,preference,result,relevant,fitpreference
+Ethinamate,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugtype/smallMolecule,TRUE,TRUE
+Ethinamate,drug,drugs,http://en.wikipedia.org/wiki/Ethionamide,TRUE,TRUE
+Ethinamate,drug,drugs,http://dbpedia.org/resource/Ethinamate,TRUE,TRUE
+Ethinamate,drug,drugs,http://bio2rdf.org/kegg:D00703,TRUE,TRUE
+Ethinamate,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugcategory/fattyAcidSynthesisInhibitors,TRUE,TRUE
+Ethinamate,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugtype/approved,TRUE,TRUE
+Ethinamate,drug,drugs,http://bio2rdf.org/cas:536-33-4,TRUE,FALSE
+Ethinamate,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugcategory/leprostaticAgents,TRUE,TRUE
+Ethinamate,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugcategory/antitubercularAgents,TRUE,TRUE
+Ethinamate,drug,drugs,http://129.128.185.122/drugbank2/drugs/DB01031/inserts/2116/full,TRUE,FALSE
+Ethinamate,drug,drugs,http://129.128.185.122/drugbank2/drugs/DB01031/inserts/1107/full,TRUE,FALSE
+Ethinamate,drug,drugs,http://www.dbpedia.org/resource/Ethionamide,TRUE,TRUE
+Ethinamate,drug,drugs,http://data.linkedct.org/resource/intervention/5124,TRUE,FALSE
+Ethinamate,drug,drugs,http://bio2rdf.org/cpd:C07832,TRUE,FALSE
+Ethinamate,drug,drugs,http://en.wikipedia.org/wiki/Ethinamate,TRUE,TRUE
+Ethinamate,drug,drugs,http://129.128.185.122/drugbank2/drugs/DB00609/inserts/881/full,TRUE,FALSE
+Ethinamate,drug,drugs,http://www.dbpedia.org/resource/Ethinamate,TRUE,TRUE
+Ethinamate,drug,drugs,http://www.rxlist.com/cgi/generic2/ethionamide.htm,TRUE,TRUE
+Ethinamate,drug,drugs,http://www.drugbank.ca/drugs/DB01031,TRUE,TRUE
+Ethinamate,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/dosageforms/tabletFilmCoatedOral,TRUE,TRUE
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/Phenylpropanolamine_hydrochloride,TRUE,TRUE
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/Phenylpropanolamine,TRUE,TRUE
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugtype/approved,TRUE,TRUE
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugtype/smallMolecule,TRUE,TRUE
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/dosageforms/tabletOral,TRUE,TRUE
+Phenylpropanolamine,drug,drugs,http://www.dbpedia.org/resource/Hydrocodone,TRUE,TRUE
+Phenylpropanolamine,drug,drugs,http://129.128.185.122/drugbank2/drugs/DB01146/inserts/383/full,TRUE,FALSE
+Phenylpropanolamine,drug,drugs,http://129.128.185.122/drugbank2/drugs/DB01146/inserts/1257/full,TRUE,FALSE
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/dosageforms/syrupOral,TRUE,TRUE
+Phenylpropanolamine,drug,drugs,http://dbpedia.org/page/Diphenylpyraline,TRUE,TRUE
+Phenylpropanolamine,drug,drugs,http://129.128.185.122/drugbank2/drugs/DB00397/inserts/1123/full,TRUE,FALSE
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/routeOfAdministration/Oral,TRUE,TRUE
+Phenylpropanolamine,drug,drugs,http://dbpedia.org/resource/Brompheniramine,TRUE,TRUE
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugcategory/antihistamines,TRUE,TRUE
+Phenylpropanolamine,drug,drugs,http://bio2rdf.org/cas:86-22-6,TRUE,FALSE
+Phenylpropanolamine,drug,drugs,http://www.drugbank.ca/drugs/DB00835,TRUE,TRUE
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugcategory/adrenergicAlpha-agonists,TRUE,TRUE
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/FD%26C_Red_40,TRUE,TRUE
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugcategory/histamineH1Antagonists,TRUE,TRUE
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/sorbitol_solution,TRUE,TRUE
+Memantine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/Memantine,TRUE,TRUE
+Memantine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/Memantine_Hydrochloride,TRUE,TRUE
+Memantine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB01043,TRUE,TRUE
+Memantine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/dosageforms/tabletOral,TRUE,TRUE
+Memantine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugtype/smallMolecule,TRUE,TRUE
+Memantine,drug,drugs,http://data.linkedct.org/resource/intervention/9096,TRUE,FALSE
+Memantine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00819,TRUE,TRUE
+Memantine,drug,drugs,http://data.linkedct.org/resource/intervention/59485,TRUE,FALSE
+Memantine,drug,drugs,http://data.linkedct.org/resource/intervention/62349,TRUE,FALSE
+Memantine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugtype/approved,TRUE,TRUE
+Memantine,drug,drugs,http://129.128.185.122/drugbank2/drugs/DB01043/inserts/1096/full,TRUE,FALSE
+Memantine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB01390,TRUE,TRUE
+Memantine,drug,drugs,http://data.linkedct.org/resource/intervention/22913,TRUE,FALSE
+Memantine,drug,drugs,http://en.wikipedia.org/wiki/Memantine,TRUE,TRUE
+Memantine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB01144,TRUE,TRUE
+Memantine,drug,drugs,http://data.linkedct.org/resource/intervention/42866,TRUE,FALSE
+Memantine,drug,drugs,http://www.rxlist.com/cgi/generic3/namenda.htm,TRUE,TRUE
+Memantine,drug,drugs,http://data.linkedct.org/resource/intervention/56126,TRUE,FALSE
+Memantine,drug,drugs,http://dbpedia.org/page/Memantine,TRUE,TRUE
+Memantine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00703,TRUE,TRUE
+Aliskiren,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/Aliskiren_fumarate,TRUE,TRUE
+Aliskiren,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/aliskiren,TRUE,TRUE
+Aliskiren,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/hypromellose,TRUE,TRUE
+Aliskiren,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/magnesium_stearate,TRUE,TRUE
+Aliskiren,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/colloidal_silicon_dioxide,TRUE,TRUE
+Aliskiren,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/routeOfAdministration/Oral,TRUE,TRUE
+Aliskiren,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/crospovidone,TRUE,TRUE
+Aliskiren,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/titanium_dioxide,TRUE,TRUE
+Aliskiren,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/iron_oxide_colorants,TRUE,TRUE
+Aliskiren,drug,drugs,http://data.linkedct.org/resource/intervention/31415,TRUE,FALSE
+Aliskiren,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/polyethylene_glycol,TRUE,TRUE
+Aliskiren,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/povidone,TRUE,TRUE
+Aliskiren,drug,drugs,http://data.linkedct.org/resource/intervention/15762,TRUE,FALSE
+Aliskiren,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/talc,TRUE,TRUE
+Aliskiren,drug,drugs,http://data.linkedct.org/resource/intervention/31416,TRUE,FALSE
+Aliskiren,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/microcrystalline_cellulose,TRUE,TRUE
+Aliskiren,drug,drugs,http://bio2rdf.org/cas:173334-57-1,TRUE,FALSE
+Aliskiren,drug,drugs,http://data.linkedct.org/resource/intervention/31417,TRUE,FALSE
+Aliskiren,drug,drugs,http://data.linkedct.org/resource/intervention/31413,TRUE,FALSE
+Aliskiren,drug,drugs,http://data.linkedct.org/resource/intervention/31407,TRUE,FALSE
+Methdilazine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugtype/approved,TRUE,TRUE
+Methdilazine,drug,drugs,http://en.wikipedia.org/wiki/Methdilazine,TRUE,TRUE
+Methdilazine,drug,drugs,http://bio2rdf.org/cpd:C07175,TRUE,FALSE
+Methdilazine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugcategory/antihistamines,TRUE,TRUE
+Methdilazine,drug,drugs,http://dbpedia.org/page/Methdilazine,TRUE,TRUE
+Methdilazine,drug,drugs,http://www.dbpedia.org/resource/Methdilazine,TRUE,TRUE
+Methdilazine,drug,drugs,http://129.128.185.122/drugbank2/drugs/DB00902/inserts/792/full,TRUE,FALSE
+Methdilazine,drug,drugs,http://bio2rdf.org/cas:1982-37-2,TRUE,FALSE
+Methdilazine,drug,drugs,http://bio2rdf.org/kegg:D04979,TRUE,TRUE
+Methdilazine,drug,drugs,http://www.drugbank.ca/drugs/DB00902,TRUE,TRUE
+Methdilazine,drug,drugs,http://dbpedia.org/resource/Methdilazine,TRUE,TRUE
+Methdilazine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugtype/smallMolecule,TRUE,TRUE
+Methdilazine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/references/10597865,TRUE,TRUE
+Methdilazine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/references/9747899,TRUE,TRUE
+Methdilazine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/references/17329841,TRUE,TRUE
+Methdilazine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/references/9197279,TRUE,TRUE
+Methdilazine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/targets/492,TRUE,FALSE
+Methdilazine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/references/2268511,TRUE,TRUE
+Methdilazine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/references/1303772,TRUE,TRUE
+Methdilazine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/references/15893120,TRUE,TRUE
+Trovafloxacin,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/trovafloxacin_mesylate,TRUE,TRUE
+Trovafloxacin,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/trovafloxacin,TRUE,TRUE
+Trovafloxacin,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/cross_linked_sodium_carboxymethylcellulose,TRUE,TRUE
+Trovafloxacin,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/routeOfAdministration/Oral,TRUE,TRUE
+Trovafloxacin,drug,drugs,http://en.wikipedia.org/wiki/Trovafloxacin,TRUE,TRUE
+Trovafloxacin,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/hydroxypropylmethylcellulose,TRUE,TRUE
+Trovafloxacin,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/titanium_dioxide,TRUE,TRUE
+Trovafloxacin,drug,drugs,http://www.dbpedia.org/resource/Trovafloxacin,TRUE,TRUE
+Trovafloxacin,drug,drugs,http://dbpedia.org/page/Trovafloxacin,TRUE,TRUE
+Trovafloxacin,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugtype/smallMolecule,TRUE,TRUE
+Trovafloxacin,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/dosageforms/tabletOral,TRUE,TRUE
+Trovafloxacin,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/hydroxypropylcellulose,TRUE,TRUE
+Trovafloxacin,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00295,TRUE,TRUE
+Trovafloxacin,drug,drugs,http://bio2rdf.org/cas:147059-72-1,TRUE,FALSE
+Trovafloxacin,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugcategory/anti-infectiveAgents,TRUE,TRUE
+Trovafloxacin,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00685,TRUE,TRUE
+Trovafloxacin,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/polyethylene_glycol,TRUE,TRUE
+Trovafloxacin,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/dosageforms/liquidIntravenous,TRUE,TRUE
+Trovafloxacin,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugcategory/anti-infectives,TRUE,TRUE
+Trovafloxacin,drug,drugs,http://www.rxlist.com/cgi/generic/trovazit.htm,TRUE,FALSE
+Altretamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/altretamine,TRUE,TRUE
+Altretamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/organization/MGI_PHARMA%2C_INC.,TRUE,FALSE
+Altretamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/Calcium_stearate,TRUE,TRUE
+Altretamine,drug,drugs,http://data.linkedct.org/resource/intervention/15807,TRUE,FALSE
+Altretamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugcategory/antineoplasticAgents_Alkylating,TRUE,TRUE
+Altretamine,drug,drugs,http://www.rxlist.com/cgi/generic/altretamine.htm,TRUE,FALSE
+Altretamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/routeOfAdministration/Oral,TRUE,TRUE
+Altretamine,drug,drugs,http://www.dbpedia.org/resource/Altretamine,TRUE,TRUE
+Altretamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/Anhydrous_lactose,TRUE,TRUE
+Altretamine,drug,drugs,http://sideeffects.embl.de/se/C0012833,TRUE,FALSE
+Altretamine,drug,drugs,http://www.drugbank.ca/drugs/DB00488,TRUE,TRUE
+Altretamine,drug,drugs,http://stitch.embl.de/cgi/show_network_section.pl?identifier=-CID0000002123&input_query_species=9606,TRUE,FALSE
+Altretamine,drug,drugs,http://129.128.185.122/drugbank2/drugs/DB00488/inserts/1615/full,TRUE,FALSE
+Altretamine,drug,drugs,http://dbpedia.org/page/Altretamine,TRUE,TRUE
+Altretamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/dosageforms/capsuleOral,TRUE,TRUE
+Altretamine,drug,drugs,http://sideeffects.embl.de/drugs/2123,TRUE,TRUE
+Altretamine,drug,drugs,http://dbpedia.org/resource/Altretamine,TRUE,TRUE
+Altretamine,drug,drugs,http://sideeffects.embl.de/se/C0027497,TRUE,FALSE
+Altretamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/Capsugel_size_3_hard_gelatin_capsule,TRUE,TRUE
+Altretamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugtype/smallMolecule,TRUE,TRUE
+Natamycin,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/natamycin,TRUE,TRUE
+Natamycin,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/benzalkonium_chloride,TRUE,TRUE
+Natamycin,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugcategory/anti-infectiveAgents_Local,TRUE,TRUE
+Natamycin,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/water,TRUE,TRUE
+Natamycin,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/hydrochloric_acid,TRUE,TRUE
+Natamycin,drug,drugs,http://www4.wiwiss.fu-berlin.de/stitch/resource/chemicals/CID0000657250,TRUE,FALSE
+Natamycin,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/sodium_hydroxide,TRUE,TRUE
+Natamycin,drug,drugs,http://sideeffects.embl.de/drugs/657250,TRUE,TRUE
+Natamycin,drug,drugs,http://www.rxlist.com/cgi/generic2/natamycin.htm,TRUE,FALSE
+Natamycin,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/routeOfAdministration/Ophthalmic,TRUE,TRUE
+Natamycin,drug,drugs,http://sideeffects.embl.de/se/C0009763,TRUE,FALSE
+Natamycin,drug,drugs,http://129.128.185.122/drugbank2/drugs/DB00826/inserts/1245/full,TRUE,FALSE
+Natamycin,drug,drugs,http://stitch.embl.de/cgi/show_network_section.pl?identifier=-CID0000657250&input_query_species=9606,TRUE,FALSE
+Natamycin,drug,drugs,http://www.fda.gov/cder/foi/label/2008/050514s009lbl.pdf,TRUE,FALSE
+Natamycin,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugtype/approved,TRUE,TRUE
+Natamycin,drug,drugs,http://www.dbpedia.org/resource/Natamycin,TRUE,TRUE
+Natamycin,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/organization/Alcon_Laboratories%2C_Inc.,TRUE,FALSE
+Natamycin,drug,drugs,http://en.wikipedia.org/wiki/Natamycin,TRUE,TRUE
+Natamycin,drug,drugs,http://www.drugbank.ca/drugs/DB00826,TRUE,TRUE
+Natamycin,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugcategory/anti-bacterialAgents,TRUE,TRUE
+Dexbrompheniramine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugtype/smallMolecule,TRUE,TRUE
+Dexbrompheniramine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugtype/approved,TRUE,TRUE
+Dexbrompheniramine,drug,drugs,http://dbpedia.org/page/Dexbrompheniramine,TRUE,TRUE
+Dexbrompheniramine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00405,TRUE,TRUE
+Dexbrompheniramine,drug,drugs,http://129.128.185.122/drugbank2/drugs/DB00405/inserts/467/full,TRUE,FALSE
+Dexbrompheniramine,drug,drugs,http://www.drugbank.ca/drugs/DB00405,TRUE,TRUE
+Dexbrompheniramine,drug,drugs,http://en.wikipedia.org/wiki/Dexbrompheniramine,TRUE,TRUE
+Dexbrompheniramine,drug,drugs,http://129.128.185.122/drugbank2/drugs/DB00405/inserts/2383/full,TRUE,FALSE
+Dexbrompheniramine,drug,drugs,http://129.128.185.122/drugbank2/drugs/DB00405/inserts/1385/full,TRUE,FALSE
+Dexbrompheniramine,drug,drugs,http://dbpedia.org/resource/Dexbrompheniramine,TRUE,TRUE
+Dexbrompheniramine,drug,drugs,http://bio2rdf.org/cas:132-21-8,TRUE,FALSE
+Dexbrompheniramine,drug,drugs,http://www.dbpedia.org/resource/Dexbrompheniramine,TRUE,TRUE
+Dexbrompheniramine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugcategory/antihistamines,TRUE,TRUE
+Dexbrompheniramine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00382,TRUE,TRUE
+Dexbrompheniramine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00427,TRUE,TRUE
+Dexbrompheniramine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00662,TRUE,TRUE
+Dexbrompheniramine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00209,TRUE,TRUE
+Dexbrompheniramine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugcategory/analgesics,TRUE,TRUE
+Dexbrompheniramine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugcategory/anti-allergicAgents,TRUE,TRUE
+Dexbrompheniramine,drug,drugs,http://129.128.185.122/drugbank2/drugs/DB00427/inserts/2571/full,TRUE,FALSE
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/diatrizoic_acid,TRUE,TRUE
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/diatrizoate_meglumine,TRUE,TRUE
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/edetate_disodium,TRUE,TRUE
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/Diatrizoate_Sodium,TRUE,TRUE
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/Diatrizoate_Meglumine,TRUE,TRUE
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/routeOfAdministration/Intravenous,TRUE,TRUE
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/sodium_citrate,TRUE,TRUE
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/routeOfAdministration/Intravesical,TRUE,TRUE
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/routeOfAdministration/Intravascular,TRUE,TRUE
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/organization/Bracco_Diagnostics_Inc.,TRUE,FALSE
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/edetate_calcium_disodium,TRUE,TRUE
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/organization/Bracco_Diagnostics_Inc.%2C,TRUE,FALSE
+Diatrizoate,drug,drugs,http://data.linkedct.org/resource/intervention/44361,TRUE,FALSE
+Diatrizoate,drug,drugs,http://data.linkedct.org/resource/intervention/19185,TRUE,FALSE
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/dosageforms/liquidIntravenous,TRUE,TRUE
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/routeOfAdministration/Intrauterine,TRUE,TRUE
+Diatrizoate,drug,drugs,http://dbpedia.org/page/Diatrizoate,TRUE,TRUE
+Diatrizoate,drug,drugs,http://bio2rdf.org/kegg:D01013,TRUE,TRUE
+Diatrizoate,drug,drugs,http://129.128.185.122/drugbank2/drugs/DB00271/inserts/2164/full,TRUE,FALSE
+Diatrizoate,drug,drugs,http://data.linkedct.org/resource/intervention/27732,TRUE,FALSE
+Coats%27 disease,diseases,diseases,http://bio2rdf.org/euadr:AlteredExpression,FALSE,FALSE
+Coats%27 disease,diseases,diseases,http://linkedlifedata.com/resource/pubmed/id/15878807,FALSE,TRUE
+Coats%27 disease,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology,FALSE,TRUE
+Coats%27 disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/possibleDiseaseTarget,FALSE,TRUE
+Coats%27 disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/possibleDiseaseTarget,FALSE,TRUE
+Coats%27 disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/diseaseSubtypeOf,FALSE,TRUE
+Coats%27 disease,diseases,diseases,http://www.w3.org/TR/skos-reference/,FALSE,FALSE
+Coats%27 disease,diseases,diseases,http://www.w3.org/2004/02/skos/core#Concept,FALSE,FALSE
+Coats%27 disease,diseases,diseases,http://www.w3.org/2004/02/skos/core,FALSE,FALSE
+Coats%27 disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/SIMVASTATIN,FALSE,FALSE
+Coats%27 disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/organization/Merck%26Co.%2C_Inc.,FALSE,FALSE
+Coats%27 disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/ASCORBIC_ACID,FALSE,FALSE
+Coats%27 disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/BUTYLATED_HYDROXYANISOLE,FALSE,FALSE
+Coats%27 disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/IRON_OXIDES,FALSE,FALSE
+Coats%27 disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/HYDROXYPROPYL_CELLULOSE,FALSE,FALSE
+Coats%27 disease,diseases,diseases,http://symbol.bio2rdf.org/symbol:F2,FALSE,FALSE
+Coats%27 disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4097,FALSE,TRUE
+Coats%27 disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1283,FALSE,TRUE
+Coats%27 disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/TALC,FALSE,FALSE
+Coats%27 disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/MICROCRYSTALLINE_CELLULOSE,FALSE,FALSE
+Giant axonal neuropathy,diseases,diseases,http://http://linkedlifedata.com/resource/lhgdn/Genetic_Variation,FALSE,FALSE
+Giant axonal neuropathy,diseases,diseases,http://bio2rdf.org/euadr:PositivelyRelated,FALSE,FALSE
+Giant axonal neuropathy,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology,FALSE,TRUE
+Giant axonal neuropathy,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseaseClass/Neurological,TRUE,TRUE
+Giant axonal neuropathy,diseases,diseases,http://linkedlifedata.com/resource/pubmed/id/11940707,FALSE,TRUE
+Giant axonal neuropathy,diseases,diseases,http://linkedlifedata.com/resource/pubmed/id/18717726,FALSE,TRUE
+Giant axonal neuropathy,diseases,diseases,http://linkedlifedata.com/resource/pubmed/id/17874344,FALSE,TRUE
+Giant axonal neuropathy,diseases,diseases,http://linkedlifedata.com/resource/pubmed/id/17636067,FALSE,TRUE
+Giant axonal neuropathy,diseases,diseases,http://linkedlifedata.com/resource/pubmed/id/18478327,FALSE,TRUE
+Giant axonal neuropathy,diseases,diseases,http://bio2rdf.org/euadr:AlteredExpression,FALSE,FALSE
+Giant axonal neuropathy,diseases,diseases,http://linkedlifedata.com/resource/pubmed/id/16856127,FALSE,TRUE
+Giant axonal neuropathy,diseases,diseases,http://www.dbpedia.org/resource/Giant_axonal_neuropathy,TRUE,TRUE
+Giant axonal neuropathy,diseases,diseases,http://bio2rdf.org/omim:607198,FALSE,FALSE
+Giant axonal neuropathy,diseases,diseases,http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=605379,TRUE,FALSE
+Giant axonal neuropathy,diseases,diseases,http://bio2rdf.org/omim:605379,TRUE,FALSE
+Giant axonal neuropathy,diseases,diseases,http://www.genenames.org/data/hgnc_data.php?hgnc_id=4137,TRUE,FALSE
+Giant axonal neuropathy,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/chromosomalLocation/14q31-q32,FALSE,FALSE
+Giant axonal neuropathy,diseases,diseases,http://bio2rdf.org/geneid:8139,TRUE,FALSE
+Giant axonal neuropathy,diseases,diseases,http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=607198,FALSE,FALSE
+Giant axonal neuropathy,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/chromosomalLocation/16q24.1,TRUE,FALSE
+Cerebrovascular disease,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology,TRUE,TRUE
+Cerebrovascular disease,diseases,diseases,http://linkedlifedata.com/resource/pubmed/id/16523342,FALSE,TRUE
+Cerebrovascular disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/possibleDiseaseTarget,TRUE,TRUE
+Cerebrovascular disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/diseaseSubtypeOf,TRUE,TRUE
+Cerebrovascular disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/possibleDiseaseTarget,TRUE,TRUE
+Cerebrovascular disease,diseases,diseases,http://bio2rdf.org/euadr:AlteredExpression,FALSE,FALSE
+Cerebrovascular disease,diseases,diseases,http://linkedlifedata.com/resource/pubmed/id/12417379,TRUE,TRUE
+Cerebrovascular disease,diseases,diseases,http://www.w3.org/TR/skos-reference/,FALSE,FALSE
+Cerebrovascular disease,diseases,diseases,http://bio2rdf.org/euadr:NegativelyRelated,TRUE,FALSE
+Cerebrovascular disease,diseases,diseases,http://http://linkedlifedata.com/resource/lhgdn/Genetic_Variation,TRUE,FALSE
+Cerebrovascular disease,diseases,diseases,http://www.dbpedia.org/resource/Cerebrovascular_disease,TRUE,TRUE
+Cerebrovascular disease,diseases,diseases,http://sideeffects.embl.de/se/C0007820,TRUE,TRUE
+Cerebrovascular disease,diseases,diseases,http://purl.org/net/tcm/tcm.lifescience.ntu.edu.tw/id/disease/Cerebrovascular_Disorder,TRUE,TRUE
+Cerebrovascular disease,diseases,diseases,http://www.w3.org/2004/02/skos/core#Concept,TRUE,FALSE
+Cerebrovascular disease,diseases,diseases,http://symbol.bio2rdf.org/symbol:ACT,TRUE,FALSE
+Cerebrovascular disease,diseases,diseases,http://symbol.bio2rdf.org/symbol:SERPINA3,TRUE,FALSE
+Cerebrovascular disease,diseases,diseases,http://www.w3.org/2004/02/skos/core,TRUE,FALSE
+Cerebrovascular disease,diseases,diseases,http://bio2rdf.org/omim:107280,TRUE,FALSE
+Cerebrovascular disease,diseases,diseases,http://www.dbpedia.org/resource/Alpha_1-antichymotrypsin,TRUE,FALSE
+Cerebrovascular disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseaseClass/Unclassified,TRUE,TRUE
+Second degree AV block,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology,FALSE,TRUE
+Second degree AV block,diseases,diseases,http://sideeffects.embl.de/se/C0085614,FALSE,TRUE
+Second degree AV block,diseases,diseases,http://www.dbpedia.org/resource/Second_degree_AV_block,FALSE,TRUE
+Second degree AV block,diseases,diseases,http://www.dbpedia.org/resource/Atrioventricular_block,FALSE,TRUE
+Second degree AV block,diseases,diseases,http://sideeffects.embl.de/se/C0004245,FALSE,TRUE
+Second degree AV block,diseases,diseases,http://sideeffects.embl.de/se/C0264906,FALSE,TRUE
+Second degree AV block,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/Verapamil_hydrochloride,TRUE,FALSE
+Second degree AV block,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/routeOfAdministration/Oral,TRUE,FALSE
+Second degree AV block,diseases,diseases,http://www.dbpedia.org/resource/Verapamil,TRUE,FALSE
+Second degree AV block,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/organization/AMERICAN_REGENT%2C_INC.,FALSE,FALSE
+Second degree AV block,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/Verapamil,TRUE,FALSE
+Second degree AV block,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/silicon_dioxide,TRUE,FALSE
+Second degree AV block,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/D%26C_Yellow_%2310_Aluminum_Lake,FALSE,FALSE
+Second degree AV block,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/hypromellose,TRUE,FALSE
+Second degree AV block,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseaseClass/Cardiovascular,FALSE,TRUE
+Second degree AV block,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/FD%26C_Blue_%231_Aluminum_Lake,TRUE,FALSE
+Second degree AV block,diseases,diseases,http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=600584,FALSE,FALSE
+Second degree AV block,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/routeOfAdministration/Intravenous,FALSE,TRUE
+Second degree AV block,diseases,diseases,http://bio2rdf.org/omim:600584,FALSE,FALSE
+Second degree AV block,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/chromosomalLocation/5q34,FALSE,FALSE
+Polydactyly,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology,TRUE,TRUE
+Polydactyly,diseases,diseases,http://http://linkedlifedata.com/resource/lhgdn/Genetic_Variation,TRUE,FALSE
+Polydactyly,diseases,diseases,http://linkedlifedata.com/resource/pubmed/id/16440883,TRUE,TRUE
+Polydactyly,diseases,diseases,http://linkedlifedata.com/resource/pubmed/id/16865294,TRUE,TRUE
+Polydactyly,diseases,diseases,http://bio2rdf.org/euadr:PositivelyRelated,TRUE,FALSE
+Polydactyly,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseaseClass/Skeletal,TRUE,TRUE
+Polydactyly,diseases,diseases,http://data.linkedct.org/resource/condition/10256,TRUE,TRUE
+Polydactyly,diseases,diseases,http://www.dbpedia.org/resource/Polydactyly,TRUE,TRUE
+Polydactyly,diseases,diseases,http://www.dbpedia.org/resource/GLI3,TRUE,FALSE
+Polydactyly,diseases,diseases,http://symbol.bio2rdf.org/symbol:GLI3,TRUE,FALSE
+Polydactyly,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:652,TRUE,TRUE
+Polydactyly,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:225,TRUE,TRUE
+Polydactyly,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:4,TRUE,TRUE
+Polydactyly,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/GLI3,TRUE,FALSE
+Polydactyly,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:2256,TRUE,TRUE
+Polydactyly,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:17,TRUE,TRUE
+Polydactyly,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:0080001,TRUE,TRUE
+Polydactyly,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:7,TRUE,TRUE
+Polydactyly,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:0060035,TRUE,TRUE
+Hay-Wells syndrome,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology,FALSE,TRUE
+Hay-Wells syndrome,diseases,diseases,http://linkedlifedata.com/resource/geneontology,FALSE,FALSE
+Hay-Wells syndrome,diseases,diseases,http://www.dbpedia.org/resource/Hepatorenal_syndrome,FALSE,TRUE
+Hay-Wells syndrome,diseases,diseases,http://sideeffects.embl.de/se/C0029221,FALSE,TRUE
+Hay-Wells syndrome,diseases,diseases,http://sideeffects.embl.de/se/C0010481,FALSE,TRUE
+Hay-Wells syndrome,diseases,diseases,http://www.dbpedia.org/resource/Cushing%27s_syndrome,FALSE,TRUE
+Hay-Wells syndrome,diseases,diseases,http://www.dbpedia.org/resource/Organic_brain_syndrome,FALSE,TRUE
+Hay-Wells syndrome,diseases,diseases,http://sideeffects.embl.de/se/C0019212,FALSE,TRUE
+Hay-Wells syndrome,diseases,diseases,http://purl.org/net/tcm/tcm.lifescience.ntu.edu.tw/id/disease/Serotonin_Syndrome,FALSE,TRUE
+Hay-Wells syndrome,diseases,diseases,http://www.dbpedia.org/resource/Serotonin_syndrome,FALSE,TRUE
+Hay-Wells syndrome,diseases,diseases,http://sideeffects.embl.de/se/C0024586,FALSE,TRUE
+Hay-Wells syndrome,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:759,FALSE,TRUE
+Hay-Wells syndrome,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:0050325,FALSE,TRUE
+Hay-Wells syndrome,diseases,diseases,http://linkedlifedata.com/resource/geneontology/id/GO:0007610,FALSE,FALSE
+Hay-Wells syndrome,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:1086,FALSE,TRUE
+Hay-Wells syndrome,diseases,diseases,http://linkedlifedata.com/resource/geneontology/id/GO:0051866,FALSE,FALSE
+Hay-Wells syndrome,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:4,FALSE,TRUE
+Hay-Wells syndrome,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:0060035,FALSE,TRUE
+Hay-Wells syndrome,diseases,diseases,http://linkedlifedata.com/resource/geneontology/id/GO:0008150,FALSE,FALSE
+Hay-Wells syndrome,diseases,diseases,http://linkedlifedata.com/resource/geneontology/id/GO:0033555,FALSE,FALSE
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://http://linkedlifedata.com/resource/lhgdn/Genetic_Variation,TRUE,FALSE
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://bio2rdf.org/euadr:PositivelyRelated,TRUE,FALSE
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://linkedlifedata.com/resource/pubmed/id/16923549,TRUE,TRUE
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://linkedlifedata.com/resource/pubmed/id/18158579,TRUE,TRUE
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://linkedlifedata.com/resource/pubmed/id/12424196,TRUE,TRUE
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://linkedlifedata.com/resource/pubmed/id/15217832,TRUE,TRUE
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://linkedlifedata.com/resource/pubmed/id/12041678,TRUE,TRUE
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://linkedlifedata.com/resource/pubmed/id/12037021,TRUE,TRUE
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://linkedlifedata.com/resource/pubmed/id/12070003,TRUE,TRUE
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://data.linkedct.org/resource/condition/9710,TRUE,FALSE
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseaseClass/Hematological,TRUE,TRUE
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://www.dbpedia.org/resource/Paroxysmal_nocturnal_hemoglobinuria,TRUE,TRUE
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://bio2rdf.org/omim:311770,TRUE,FALSE
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=311770,TRUE,FALSE
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/chromosomalLocation/Xp22.1,TRUE,FALSE
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://bio2rdf.org/hgnc:8957,TRUE,FALSE
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://www.dbpedia.org/resource/PIGA,TRUE,FALSE
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://www.genenames.org/data/hgnc_data.php?hgnc_id=8957,TRUE,FALSE
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://symbol.bio2rdf.org/symbol:PIGA,TRUE,FALSE
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://bio2rdf.org/geneid:5277,TRUE,FALSE
+Xeroderma pigmentosum,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseaseClass/Dermatological,TRUE,TRUE
+Xeroderma pigmentosum,diseases,diseases,http://linkedlifedata.com/resource/pubmed/id/18585952,TRUE,TRUE
+Xeroderma pigmentosum,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology,TRUE,TRUE
+Xeroderma pigmentosum,diseases,diseases,http://bio2rdf.org/euadr:NegativelyRelated,TRUE,FALSE
+Xeroderma pigmentosum,diseases,diseases,http://bio2rdf.org/euadr:PositivelyRelated,TRUE,FALSE
+Xeroderma pigmentosum,diseases,diseases,http://symbol.bio2rdf.org/symbol:ERCC3,TRUE,FALSE
+Xeroderma pigmentosum,diseases,diseases,http://bio2rdf.org/omim:600811,TRUE,FALSE
+Xeroderma pigmentosum,diseases,diseases,http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=600811,TRUE,FALSE
+Xeroderma pigmentosum,diseases,diseases,http://www.dbpedia.org/resource/Xeroderma_pigmentosum,TRUE,TRUE
+Xeroderma pigmentosum,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/chromosomalLocation/16p13.3-p13.13,TRUE,FALSE
+Xeroderma pigmentosum,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1206,TRUE,TRUE
+Xeroderma pigmentosum,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/chromosomalLocation/2q21,TRUE,FALSE
+Xeroderma pigmentosum,diseases,diseases,http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=126340,TRUE,FALSE
+Xeroderma pigmentosum,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/chromosomalLocation/19q13.2-q13.3,TRUE,FALSE
+Xeroderma pigmentosum,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/chromosomalLocation/9q22.3,TRUE,FALSE
+Xeroderma pigmentosum,diseases,diseases,http://symbol.bio2rdf.org/symbol:XPF,TRUE,FALSE
+Xeroderma pigmentosum,diseases,diseases,http://bio2rdf.org/omim:133520,TRUE,FALSE
+Xeroderma pigmentosum,diseases,diseases,http://bio2rdf.org/omim:126340,TRUE,FALSE
+Xeroderma pigmentosum,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/chromosomalLocation/3p25,TRUE,FALSE
+Xeroderma pigmentosum,diseases,diseases,http://bio2rdf.org/omim:133530,TRUE,FALSE
+Dermatofibrosarcoma protuberans,diseases,diseases,http://http://linkedlifedata.com/resource/lhgdn/Genetic_Variation,TRUE,FALSE
+Dermatofibrosarcoma protuberans,diseases,diseases,http://linkedlifedata.com/resource/pubmed/id/18201240,TRUE,TRUE
+Dermatofibrosarcoma protuberans,diseases,diseases,http://linkedlifedata.com/resource/pubmed/id/17885669,TRUE,TRUE
+Dermatofibrosarcoma protuberans,diseases,diseases,http://bio2rdf.org/euadr:AlteredExpression,TRUE,FALSE
+Dermatofibrosarcoma protuberans,diseases,diseases,http://linkedlifedata.com/resource/pubmed/id/17431412,TRUE,TRUE
+Dermatofibrosarcoma protuberans,diseases,diseases,http://linkedlifedata.com/resource/pubmed/id/17950782,TRUE,TRUE
+Dermatofibrosarcoma protuberans,diseases,diseases,http://bio2rdf.org/euadr:PositivelyRelated,TRUE,FALSE
+Dermatofibrosarcoma protuberans,diseases,diseases,http://bio2rdf.org/euadr:NegativelyRelated,TRUE,FALSE
+Dermatofibrosarcoma protuberans,diseases,diseases,http://linkedlifedata.com/resource/pubmed/id/14991543,TRUE,TRUE
+Dermatofibrosarcoma protuberans,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseaseClass/Cancer,TRUE,TRUE
+Dermatofibrosarcoma protuberans,diseases,diseases,http://bio2rdf.org/omim:190040,TRUE,FALSE
+Dermatofibrosarcoma protuberans,diseases,diseases,http://www.dbpedia.org/resource/Dermatofibrosarcoma_protuberans,TRUE,TRUE
+Dermatofibrosarcoma protuberans,diseases,diseases,http://symbol.bio2rdf.org/symbol:SIS,TRUE,FALSE
+Dermatofibrosarcoma protuberans,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/chromosomalLocation/22q12.3-q13.1,TRUE,FALSE
+Dermatofibrosarcoma protuberans,diseases,diseases,http://www.ncbi.nlm.nih.gov/entrez/dispomim.cgi?id=190040,TRUE,FALSE
+Dermatofibrosarcoma protuberans,diseases,diseases,http://data.linkedct.org/resource/condition/3753,TRUE,FALSE
+Dermatofibrosarcoma protuberans,diseases,diseases,http://symbol.bio2rdf.org/symbol:PDGFB,TRUE,FALSE
+Dermatofibrosarcoma protuberans,diseases,diseases,http://www.dbpedia.org/resource/PDGFB,TRUE,FALSE
+Dermatofibrosarcoma protuberans,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/genes/SIS,TRUE,FALSE
+Dermatofibrosarcoma protuberans,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/315,TRUE,TRUE
+Non-Hodgkin lymphoma,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology,FALSE,TRUE
+Non-Hodgkin lymphoma,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:1356,FALSE,TRUE
+Non-Hodgkin lymphoma,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:353,FALSE,TRUE
+Non-Hodgkin lymphoma,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:1033,FALSE,TRUE
+Non-Hodgkin lymphoma,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:912,FALSE,TRUE
+Non-Hodgkin lymphoma,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:1324,FALSE,TRUE
+Non-Hodgkin lymphoma,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:12254,FALSE,TRUE
+Non-Hodgkin lymphoma,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:3937,FALSE,TRUE
+Non-Hodgkin lymphoma,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:184,FALSE,TRUE
+Non-Hodgkin lymphoma,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:11819,FALSE,TRUE
+Non-Hodgkin lymphoma,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:3234,FALSE,TRUE
+Non-Hodgkin lymphoma,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:11920,FALSE,TRUE
+Non-Hodgkin lymphoma,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:246,FALSE,TRUE
+Non-Hodgkin lymphoma,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:1115,FALSE,TRUE
+Non-Hodgkin lymphoma,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:1287,FALSE,TRUE
+Non-Hodgkin lymphoma,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:462,FALSE,TRUE
+Non-Hodgkin lymphoma,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:12231,FALSE,TRUE
+Non-Hodgkin lymphoma,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:3683,FALSE,TRUE
+Non-Hodgkin lymphoma,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:5090,FALSE,TRUE
+Non-Hodgkin lymphoma,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:75,FALSE,TRUE

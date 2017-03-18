@@ -1,0 +1,401 @@
+query,querytype,preference,result,relevant,fitpreference
+Ethinamate,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB01031,true,true
+Ethinamate,drug,drugs,http://www4.wiwiss.fu-berlin.de/sider/resource/sider/drugs,false,true
+Ethinamate,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00609,true,true
+Ethinamate,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/drugs,true,true
+Ethinamate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/drugs,true,true
+Ethinamate,drug,drugs,http://www4.wiwiss.fu-berlin.de/sider/resource/sider/siderDrugId,false,true
+Ethinamate,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/vocab/resource/class/Offer,true,true
+Ethinamate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/organization/HETERO_DRUGS_LIMITED,false,false
+Ethinamate,drug,drugs,http://www4.wiwiss.fu-berlin.de/sider/resource/sider/drugName,false,true
+Ethinamate,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13457,false,false
+Ethinamate,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:9708,false,false
+Ethinamate,drug,drugs,http://linkedlifedata.com/resource/lhgdn/association:20675,false,false
+Ethinamate,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:12048,false,false
+Ethinamate,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13102,false,false
+Ethinamate,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13635,false,false
+Ethinamate,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13991,false,false
+Ethinamate,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13162,false,false
+Ethinamate,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13191,false,false
+Ethinamate,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:2466,false,false
+Ethinamate,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:788,false,false
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/Phenylpropanolamine,true,true
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/Phenylpropanolamine_hydrochloride,true,true
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00397,true,true
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/13,true,true
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00835,true,true
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB01114,true,true
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00388,true,true
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00956,true,true
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00514,true,true
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB01146,true,true
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00874,true,true
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/sider/resource/sider/drugs,true,true
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB01486,true,true
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00283,true,true
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/drugs,true,true
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/drugs,true,true
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00201,true,true
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/765,true,true
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/1163,true,true
+Phenylpropanolamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/2243,true,true
+Memantine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/Memantine,true,true
+Memantine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/Memantine_Hydrochloride,true,true
+Memantine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/3202,true,true
+Memantine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB01043,true,true
+Memantine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drug_interactions/DB00703_DB01043,true,false
+Memantine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drug_interactions/DB00819_DB01043,true,false
+Memantine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drug_interactions/DB01043_DB00703,true,false
+Memantine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drug_interactions/DB01043_DB00819,true,false
+Memantine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drug_interactions/DB01043_DB01144,true,false
+Memantine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drug_interactions/DB01043_DB01390,true,false
+Memantine,drug,drugs,http://www4.wiwiss.fu-berlin.de/sider/resource/drugs/4054,true,true
+Memantine,drug,drugs,http://www4.wiwiss.fu-berlin.de/sider/resource/sider/drugs,true,true
+Memantine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/drugs,true,true
+Memantine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/drugs,true,true
+Memantine,drug,drugs,http://cbio.mskcc.org/cpath#CPATH-87852,true,false
+Memantine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/3229,true,true
+Memantine,drug,drugs,http://www4.wiwiss.fu-berlin.de/sider/resource/sider/siderDrugId,true,true
+Memantine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/4095,true,true
+Memantine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/vocab/resource/class/Offer,true,true
+Memantine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/organization/HETERO_DRUGS_LIMITED,false,false
+Aliskiren,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/aliskiren,true,true
+Aliskiren,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/Aliskiren_fumarate,true,true
+Aliskiren,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/2032,true,true
+Aliskiren,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/667,true,true
+Aliskiren,drug,drugs,http://www4.wiwiss.fu-berlin.de/sider/resource/drugs/5493444,true,true
+Aliskiren,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB01258,true,true
+Aliskiren,drug,drugs,http://www4.wiwiss.fu-berlin.de/sider/resource/sider/drugs,true,true
+Aliskiren,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/drugs,true,true
+Aliskiren,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/drugs,true,true
+Aliskiren,drug,drugs,http://www4.wiwiss.fu-berlin.de/sider/resource/sider/siderDrugId,true,true
+Aliskiren,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/vocab/resource/class/Offer,true,true
+Aliskiren,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/organization/HETERO_DRUGS_LIMITED,false,false
+Aliskiren,drug,drugs,http://www4.wiwiss.fu-berlin.de/sider/resource/sider/drugName,true,true
+Aliskiren,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13457,false,false
+Aliskiren,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:9708,false,false
+Aliskiren,drug,drugs,http://linkedlifedata.com/resource/lhgdn/association:20675,false,false
+Aliskiren,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:12048,false,false
+Aliskiren,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13102,false,false
+Aliskiren,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13635,false,false
+Aliskiren,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13991,false,false
+Methdilazine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00902,true,true
+Methdilazine,drug,drugs,http://www4.wiwiss.fu-berlin.de/sider/resource/sider/drugs,false,true
+Methdilazine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/drugs,true,true
+Methdilazine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/drugs,true,true
+Methdilazine,drug,drugs,http://www4.wiwiss.fu-berlin.de/sider/resource/sider/siderDrugId,false,true
+Methdilazine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/vocab/resource/class/Offer,true,true
+Methdilazine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/organization/HETERO_DRUGS_LIMITED,false,false
+Methdilazine,drug,drugs,http://www4.wiwiss.fu-berlin.de/sider/resource/sider/drugName,false,true
+Methdilazine,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13457,false,false
+Methdilazine,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:9708,false,false
+Methdilazine,drug,drugs,http://linkedlifedata.com/resource/lhgdn/association:20675,false,false
+Methdilazine,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:12048,false,false
+Methdilazine,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13102,false,false
+Methdilazine,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13635,false,false
+Methdilazine,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13991,false,false
+Methdilazine,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13162,false,false
+Methdilazine,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13191,false,false
+Methdilazine,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:2466,false,false
+Methdilazine,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:788,false,false
+Methdilazine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drug_interactions/DB00091_DB01394,false,false
+Trovafloxacin,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/trovafloxacin,true,true
+Trovafloxacin,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/trovafloxacin_mesylate,true,true
+Trovafloxacin,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/3728,true,true
+Trovafloxacin,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00685,true,true
+Trovafloxacin,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drug_interactions/DB00295_DB00685,true,false
+Trovafloxacin,drug,drugs,http://www4.wiwiss.fu-berlin.de/sider/resource/drugs/62959,true,true
+Trovafloxacin,drug,drugs,http://www4.wiwiss.fu-berlin.de/sider/resource/sider/drugs,true,true
+Trovafloxacin,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/drugs,true,true
+Trovafloxacin,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/drugs,true,true
+Trovafloxacin,drug,drugs,http://www4.wiwiss.fu-berlin.de/sider/resource/sider/siderDrugId,true,true
+Trovafloxacin,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/vocab/resource/class/Offer,true,true
+Trovafloxacin,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/organization/HETERO_DRUGS_LIMITED,false,false
+Trovafloxacin,drug,drugs,http://www4.wiwiss.fu-berlin.de/sider/resource/sider/drugName,true,true
+Trovafloxacin,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13457,false,false
+Trovafloxacin,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:9708,false,false
+Trovafloxacin,drug,drugs,http://linkedlifedata.com/resource/lhgdn/association:20675,false,false
+Trovafloxacin,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:12048,false,false
+Trovafloxacin,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13102,false,false
+Trovafloxacin,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13635,false,false
+Trovafloxacin,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13991,false,false
+Altretamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/altretamine,true,true
+Altretamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00488,true,true
+Altretamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/sider/resource/drugs/2123,true,true
+Altretamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/2205,true,true
+Altretamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/sider/resource/sider/drugs,true,true
+Altretamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/drugs,true,true
+Altretamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/drugs,true,true
+Altretamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/sider/resource/sider/siderDrugId,true,true
+Altretamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/3505,true,true
+Altretamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/vocab/resource/class/Offer,true,true
+Altretamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/organization/HETERO_DRUGS_LIMITED,false,false
+Altretamine,drug,drugs,http://www4.wiwiss.fu-berlin.de/sider/resource/sider/drugName,true,true
+Altretamine,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13457,false,false
+Altretamine,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:9708,false,false
+Altretamine,drug,drugs,http://linkedlifedata.com/resource/lhgdn/association:20675,false,false
+Altretamine,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:12048,false,false
+Altretamine,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13102,false,false
+Altretamine,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13635,false,false
+Altretamine,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13991,false,false
+Altretamine,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13162,false,false
+Natamycin,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/natamycin,true,true
+Natamycin,drug,drugs,http://www4.wiwiss.fu-berlin.de/sider/resource/drugs/657250,true,true
+Natamycin,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/3596,true,true
+Natamycin,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00826,true,true
+Natamycin,drug,drugs,http://www4.wiwiss.fu-berlin.de/sider/resource/sider/drugs,true,true
+Natamycin,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/drugs,true,true
+Natamycin,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/drugs,true,true
+Natamycin,drug,drugs,http://www4.wiwiss.fu-berlin.de/sider/resource/sider/siderDrugId,true,true
+Natamycin,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/vocab/resource/class/Offer,true,true
+Natamycin,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/organization/HETERO_DRUGS_LIMITED,false,false
+Natamycin,drug,drugs,http://www4.wiwiss.fu-berlin.de/sider/resource/sider/drugName,true,true
+Natamycin,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13457,false,false
+Natamycin,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:9708,false,false
+Natamycin,drug,drugs,http://linkedlifedata.com/resource/lhgdn/association:20675,false,false
+Natamycin,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:12048,false,false
+Natamycin,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13102,false,false
+Natamycin,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13635,false,false
+Natamycin,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13991,false,false
+Natamycin,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13162,false,false
+Natamycin,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13191,false,false
+Dexbrompheniramine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00405,true,true
+Dexbrompheniramine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drug_interactions/DB00209_DB00405,true,false
+Dexbrompheniramine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drug_interactions/DB00427_DB00405,true,false
+Dexbrompheniramine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drug_interactions/DB00662_DB00405,true,false
+Dexbrompheniramine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drug_interactions/DB00382_DB00405,true,false
+Dexbrompheniramine,drug,drugs,http://www4.wiwiss.fu-berlin.de/sider/resource/sider/drugs,false,true
+Dexbrompheniramine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugbank/drugs,true,true
+Dexbrompheniramine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/drugs,true,true
+Dexbrompheniramine,drug,drugs,http://www4.wiwiss.fu-berlin.de/sider/resource/sider/siderDrugId,false,true
+Dexbrompheniramine,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/vocab/resource/class/Offer,true,true
+Dexbrompheniramine,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/organization/HETERO_DRUGS_LIMITED,false,false
+Dexbrompheniramine,drug,drugs,http://www4.wiwiss.fu-berlin.de/sider/resource/sider/drugName,false,true
+Dexbrompheniramine,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13457,false,false
+Dexbrompheniramine,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:9708,false,false
+Dexbrompheniramine,drug,drugs,http://linkedlifedata.com/resource/lhgdn/association:20675,false,false
+Dexbrompheniramine,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:12048,false,false
+Dexbrompheniramine,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13102,false,false
+Dexbrompheniramine,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13635,false,false
+Dexbrompheniramine,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13991,false,false
+Dexbrompheniramine,drug,drugs,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13162,false,false
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/Diatrizoate_Meglumine,true,true
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/Diatrizoate_Sodium,true,true
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/1848,true,true
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/1803,true,true
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/1973,true,true
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/2421,true,true
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/4115,true,true
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/1194,true,true
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00271,true,true
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/3478,true,true
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/3909,true,true
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/173,true,true
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/2144,true,true
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/2459,true,true
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/1953,true,true
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/540,true,true
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/47,true,true
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/2212,true,true
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/sider/resource/sider/drugs,true,true
+Diatrizoate,drug,drugs,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/1304,true,true
+Coats%27 disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/sider/resource/side_effects/C0018799,false,true
+Coats%27 disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/sider/resource/side_effects/C0036916,false,true
+Coats%27 disease,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:0050178,false,true
+Coats%27 disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1383,false,true
+Coats%27 disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1597,false,true
+Coats%27 disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2006,false,true
+Coats%27 disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2008,false,true
+Coats%27 disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2395,false,true
+Coats%27 disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2560,false,true
+Coats%27 disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2607,false,true
+Coats%27 disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2608,false,true
+Coats%27 disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2861,false,true
+Coats%27 disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3326,false,true
+Coats%27 disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3395,false,true
+Coats%27 disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3433,false,true
+Coats%27 disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3540,false,true
+Coats%27 disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3615,false,true
+Coats%27 disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/sider/resource/side_effects/C0009450,false,true
+Coats%27 disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/sider/resource/side_effects/C0024115,false,true
+Coats%27 disease,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:17530,false,true
+Giant axonal neuropathy,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2450,true,true
+Giant axonal neuropathy,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/443,true,true
+Giant axonal neuropathy,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3956,true,true
+Giant axonal neuropathy,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:7319,false,true
+Giant axonal neuropathy,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/444,true,true
+Giant axonal neuropathy,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2453,true,true
+Giant axonal neuropathy,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:62698,false,true
+Giant axonal neuropathy,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:62699,false,true
+Giant axonal neuropathy,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:18865,false,true
+Giant axonal neuropathy,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:32578,false,true
+Giant axonal neuropathy,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:9624,false,true
+Giant axonal neuropathy,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2451,true,true
+Giant axonal neuropathy,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2452,true,true
+Giant axonal neuropathy,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1822,true,true
+Giant axonal neuropathy,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1826,true,true
+Giant axonal neuropathy,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:62700,false,true
+Giant axonal neuropathy,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:10572,false,true
+Giant axonal neuropathy,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:48417,false,true
+Giant axonal neuropathy,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:29761,false,true
+Giant axonal neuropathy,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/832,true,true
+Cerebrovascular disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1811,true,true
+Cerebrovascular disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/sider/resource/side_effects/C0007820,true,true
+Cerebrovascular disease,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/211,true,true
+Cerebrovascular disease,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:6843,true,true
+Cerebrovascular disease,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:6713,true,true
+Cerebrovascular disease,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:10397,true,true
+Cerebrovascular disease,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:10991,true,true
+Cerebrovascular disease,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:1263,true,true
+Cerebrovascular disease,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:14417,true,true
+Cerebrovascular disease,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:375,true,true
+Cerebrovascular disease,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:376,true,true
+Cerebrovascular disease,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:377,true,true
+Cerebrovascular disease,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:34930,true,true
+Cerebrovascular disease,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:2891,false,true
+Cerebrovascular disease,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:2917,false,true
+Cerebrovascular disease,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:34570,true,true
+Cerebrovascular disease,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:34588,true,true
+Cerebrovascular disease,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:34776,true,true
+Cerebrovascular disease,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:10396,true,true
+Cerebrovascular disease,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:10694,true,true
+Second degree AV block,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1532,true,true
+Second degree AV block,diseases,diseases,http://www4.wiwiss.fu-berlin.de/sider/resource/side_effects/C0085614,true,true
+Second degree AV block,diseases,diseases,http://www4.wiwiss.fu-berlin.de/sider/resource/side_effects/C0264906,true,true
+Second degree AV block,diseases,diseases,http://www4.wiwiss.fu-berlin.de/sider/resource/side_effects/C0004245,true,true
+Second degree AV block,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/3888,true,false
+Second degree AV block,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/2945,true,false
+Second degree AV block,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/2017,true,false
+Second degree AV block,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/2846,true,false
+Second degree AV block,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/4073,true,false
+Second degree AV block,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/1061,true,false
+Second degree AV block,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:10386,false,true
+Second degree AV block,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/1645,true,false
+Second degree AV block,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/537,true,false
+Second degree AV block,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:11313,false,true
+Second degree AV block,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/1308,true,false
+Second degree AV block,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/126,false,true
+Second degree AV block,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/2965,true,false
+Second degree AV block,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/4004,true,false
+Second degree AV block,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/192,true,false
+Second degree AV block,diseases,diseases,http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/3976,true,false
+Polydactyly,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/940,true,true
+Polydactyly,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3618,true,true
+Polydactyly,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3619,true,true
+Polydactyly,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:1147,true,true
+Polydactyly,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:9249,true,true
+Polydactyly,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:1914,true,true
+Polydactyly,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:2255,true,true
+Polydactyly,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:1148,true,true
+Polydactyly,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:14774,true,true
+Polydactyly,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:39511,true,true
+Polydactyly,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:39512,true,true
+Polydactyly,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:14779,true,true
+Polydactyly,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:22265,true,true
+Polydactyly,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:22268,true,true
+Polydactyly,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:30610,true,true
+Polydactyly,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:30611,true,true
+Polydactyly,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/diseases,true,true
+Polydactyly,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:62857,true,true
+Polydactyly,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:29711,true,true
+Polydactyly,diseases,diseases,http://cbio.mskcc.org/cpath#CPATH-15300,true,false
+Hay-Wells syndrome,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1061,false,true
+Hay-Wells syndrome,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1294,false,true
+Hay-Wells syndrome,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1481,false,true
+Hay-Wells syndrome,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1494,false,true
+Hay-Wells syndrome,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1556,false,true
+Hay-Wells syndrome,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/156,false,true
+Hay-Wells syndrome,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1661,false,true
+Hay-Wells syndrome,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1849,false,true
+Hay-Wells syndrome,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1906,false,true
+Hay-Wells syndrome,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2138,false,true
+Hay-Wells syndrome,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2405,false,true
+Hay-Wells syndrome,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2406,false,true
+Hay-Wells syndrome,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2407,false,true
+Hay-Wells syndrome,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2593,false,true
+Hay-Wells syndrome,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2594,false,true
+Hay-Wells syndrome,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2629,false,true
+Hay-Wells syndrome,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2832,false,true
+Hay-Wells syndrome,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2964,false,true
+Hay-Wells syndrome,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3074,false,true
+Hay-Wells syndrome,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3268,false,true
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3551,true,true
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:61082,true,true
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:61363,true,true
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:1540,true,true
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:1541,true,true
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:1542,true,true
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:1543,true,true
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:27264,true,true
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:56811,true,true
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:56823,true,true
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:11807,true,true
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:33175,true,true
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:33201,true,true
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:33502,true,true
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:33542,true,true
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:33545,true,true
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:33581,true,true
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://www4.wiwiss.fu-berlin.de/sider/resource/side_effects/C0013405,false,true
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:13065,false,true
+Paroxysmal nocturnal hemoglobinuria,diseases,diseases,http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB01257,true,false
+Xeroderma pigmentosum,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4189,true,true
+Xeroderma pigmentosum,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4191,true,true
+Xeroderma pigmentosum,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4190,true,true
+Xeroderma pigmentosum,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4192,true,true
+Xeroderma pigmentosum,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4193,true,true
+Xeroderma pigmentosum,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4194,true,true
+Xeroderma pigmentosum,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4195,true,true
+Xeroderma pigmentosum,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/4196,true,true
+Xeroderma pigmentosum,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/316,true,true
+Xeroderma pigmentosum,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:0050427,true,true
+Xeroderma pigmentosum,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:54295,true,true
+Xeroderma pigmentosum,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:54331,true,true
+Xeroderma pigmentosum,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:21422,true,true
+Xeroderma pigmentosum,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:21424,true,true
+Xeroderma pigmentosum,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:53902,true,true
+Xeroderma pigmentosum,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:53906,true,true
+Xeroderma pigmentosum,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:53952,true,true
+Xeroderma pigmentosum,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:54058,true,true
+Xeroderma pigmentosum,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:54059,true,true
+Xeroderma pigmentosum,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:54060,true,true
+Dermatofibrosarcoma protuberans,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2139,true,true
+Dermatofibrosarcoma protuberans,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/315,true,true
+Dermatofibrosarcoma protuberans,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:53021,true,true
+Dermatofibrosarcoma protuberans,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:10229,true,true
+Dermatofibrosarcoma protuberans,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:10235,true,true
+Dermatofibrosarcoma protuberans,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:35013,true,true
+Dermatofibrosarcoma protuberans,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:35021,true,true
+Dermatofibrosarcoma protuberans,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:45792,true,true
+Dermatofibrosarcoma protuberans,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:30121,true,true
+Dermatofibrosarcoma protuberans,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:30188,true,true
+Dermatofibrosarcoma protuberans,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:52999,true,true
+Dermatofibrosarcoma protuberans,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:53002,true,true
+Dermatofibrosarcoma protuberans,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:10154,true,true
+Dermatofibrosarcoma protuberans,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:10234,true,true
+Dermatofibrosarcoma protuberans,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:10242,true,true
+Dermatofibrosarcoma protuberans,diseases,diseases,http://linkedlifedata.com/resource/diseaseontology/id/DOID:3507,false,true
+Dermatofibrosarcoma protuberans,diseases,diseases,http://cbio.mskcc.org/cpath#CPATH-95030,true,false
+Dermatofibrosarcoma protuberans,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseasome/diseases,true,true
+Dermatofibrosarcoma protuberans,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:55653,true,true
+Dermatofibrosarcoma protuberans,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:5649,true,true
+Non-Hodgkin lymphoma,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1690,false,true
+Non-Hodgkin lymphoma,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/178,false,true
+Non-Hodgkin lymphoma,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2945,false,true
+Non-Hodgkin lymphoma,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3016,false,true
+Non-Hodgkin lymphoma,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3021,false,true
+Non-Hodgkin lymphoma,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3015,false,true
+Non-Hodgkin lymphoma,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3017,false,true
+Non-Hodgkin lymphoma,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3019,true,true
+Non-Hodgkin lymphoma,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3022,false,true
+Non-Hodgkin lymphoma,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3051,false,true
+Non-Hodgkin lymphoma,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/844,true,true
+Non-Hodgkin lymphoma,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/1584,true,true
+Non-Hodgkin lymphoma,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/2944,false,true
+Non-Hodgkin lymphoma,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3013,false,true
+Non-Hodgkin lymphoma,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3014,false,true
+Non-Hodgkin lymphoma,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3018,false,true
+Non-Hodgkin lymphoma,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3389,true,true
+Non-Hodgkin lymphoma,diseases,diseases,http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/3979,false,true
+Non-Hodgkin lymphoma,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:61940,false,true
+Non-Hodgkin lymphoma,diseases,diseases,http://linkedlifedata.com/resource/lhgdn/association:61961,false,true
