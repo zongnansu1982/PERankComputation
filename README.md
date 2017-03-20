@@ -10,3 +10,6 @@ This study developed an effective algorithm in which the relations between the b
 2. run java -cp edu.ucsd.dbmi.perank.data.ComputationBatchJob ./config_c.xml ./config_100 for computation
 3. counter all IPPV and index (IPPVCounter.java, IPPV Indexer.java)
 4. search, input(keyword query, preference) PERankSearcher.java
+
+# data
+find in https://drive.google.com/drive/folders/0B9VbMHIr1fkZOWlua0JKVURNUE0?usp=sharing
